@@ -95,9 +95,9 @@ const NavMenu = styled.div`
 
 `;
 const UserImg = styled.img`
-  width: 48px;
-  padding: 10px;
-  height: 48px;
-  border-radius: 50px;
-  cursor: pointer;
+   margin-top: 10px;
+   width: 45px;
+   height: 45px;
+   border-radius: 50px;
+   cursor: pointer;
 `;

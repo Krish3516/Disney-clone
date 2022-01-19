@@ -6,22 +6,22 @@ function Movies() {
      <h4>Recommended For You</h4>
      <Content>
          <Wrap>
-             <img src="/images/krishna.jpg" />
+             <img src="https://lumiere-a.akamaihd.net/v1/images/pp_soul_herobanner_mobile_20901_2a757bed.jpeg?region=0,0,640,480" />
          </Wrap>
          <Wrap>
-             <img src="/images/krishna.jpg" />
+             <img src="https://lumiere-a.akamaihd.net/v1/images/pp_soul_herobanner_mobile_20901_2a757bed.jpeg?region=0,0,640,480" />
          </Wrap>
          <Wrap>
-             <img src="/images/krishna.jpg" />
+             <img src="https://lumiere-a.akamaihd.net/v1/images/pp_soul_herobanner_mobile_20901_2a757bed.jpeg?region=0,0,640,480" />
          </Wrap>
          <Wrap>
-             <img src="/images/krishna.jpg" />
+             <img src="https://lumiere-a.akamaihd.net/v1/images/pp_soul_herobanner_mobile_20901_2a757bed.jpeg?region=0,0,640,480" />
          </Wrap>
          <Wrap>
-             <img src="/images/krishna.jpg" />
+             <img src="https://lumiere-a.akamaihd.net/v1/images/pp_soul_herobanner_mobile_20901_2a757bed.jpeg?region=0,0,640,480" />
          </Wrap>
          <Wrap>
-             <img src="/images/krishna.jpg" />
+             <img src="https://lumiere-a.akamaihd.net/v1/images/pp_soul_herobanner_mobile_20901_2a757bed.jpeg?region=0,0,640,480" />
          </Wrap>
 
      </Content>

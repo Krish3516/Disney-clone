@@ -5,14 +5,22 @@ import Header from './components/Header';
 import Detail from './components/Detail';
 import Home from './components/Home';
 import { Routes, Route, Link } from "react-router-dom";
+import Login from './components/Login';
 
 
 
 function App() {
   return (
     <div className="App">
-     <Header />
-     <Home />
+      <main>
+      <Header />
+     </main>
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="detail" element={<Detail />} />
+        <Route path="login" element={<Login />} />
+      </Routes>
     
     </div>
   );
